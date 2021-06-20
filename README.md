@@ -26,7 +26,7 @@
   
   香侬AI，将字形信息融合进Embedding在多个下游任务获得了提升。
   
-- Named Entity Recognition as Dependency Parsing (ACL - 2020)
+- Named Entity Recognition as Dependency Parsing (ACL - 2020) [Code](https://github.com/juntaoy/biaffine-ner)
   
   NER + Biaffine网络
   
