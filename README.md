@@ -88,3 +88,6 @@
 ## 工具
 
 - [dongrixinyu/JioNLP: 中文 NLP 预处理工具包，准确、高效、易用 A Chinese NLP Preprocessing Library (github.com)](https://github.com/dongrixinyu/JioNLP)
+
+- [boudinfl/pke: Python Keyphrase Extraction module (github.com)](https://github.com/boudinfl/pke)  关键词抽取工具
+
