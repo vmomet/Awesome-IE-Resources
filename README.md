@@ -91,3 +91,5 @@
 
 - [boudinfl/pke: Python Keyphrase Extraction module (github.com)](https://github.com/boudinfl/pke)  关键词抽取工具
 
+- [explosion/spaCy: 💫 Industrial-strength Natural Language Processing (NLP) in Python (github.com)](https://github.com/explosion/spaCy)
+
