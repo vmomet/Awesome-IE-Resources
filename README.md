@@ -73,11 +73,13 @@
   推荐：⭐⭐⭐⭐⭐
 
 - [z814081807/DeepNER: 天池中药说明书实体识别挑战冠军方案；中文命名实体识别；NER; BERT-CRF & BERT-SPAN & BERT-MRC；Pytorch (github.com)](https://github.com/z814081807/DeepNER)
+
 - [wavewangyue/ner: 命名实体识别实践与探索 (github.com)](https://github.com/wavewangyue/ner)
 
 ### RE
 
 - [panchunguang/ccks_baidu_entity_link: ccks baidu entity link 实体链接 第一名 (github.com)](https://github.com/panchunguang/ccks_baidu_entity_link)
+- [crownpku/Information-Extraction-Chinese: Chinese Named Entity Recognition with IDCNN/biLSTM+CRF, and Relation Extraction with biGRU+2ATT 中文实体识别与关系提取 (github.com)](https://github.com/crownpku/Information-Extraction-Chinese) - Tensorflow
 
 ## 数据集
 
